@@ -14,15 +14,34 @@ From the vibrant city of Buenos Aires, Argentina, my passion for technology has 
 ## 📊 Estadísticas de GitHub
 !Estadísticas de GitHub
 
-## 💻 Tecnologías y Herramientas
+## 💻 Tech and Tools
 <!-- Personaliza tus insignias aquí: https://shields.io/ -->
-!Python
-!JavaScript
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+ 
+
 <!-- Añade más tecnologías que conoces -->
 
-## 🌟 Proyectos Destacados
+## 🌟 Some of my projects
 <!-- Asegúrate de actualizar los enlaces con tus repositorios -->
-- [E-Gym]([https://frontend-pf-three.vercel.app/) - .
+- [E-Gym][(https://frontend-pf-three.vercel.app/)] - .
 - ## Project Overview
 GymCommerce is a responsive e-commerce website designed to cater to the fitness industry. The platform offers a seamless shopping experience for gym equipment, supplements, and accessories. It features a robust admin dashboard, secure user authentication, email notifications, and form validations to ensure a smooth operation.
 
@@ -44,7 +63,7 @@ GymCommerce is a responsive e-commerce website designed to cater to the fitness 
 ## Conclusion
 E-gym stands out as a specialized e-commerce solution for the fitness industry, providing a powerful platform for gym owners and fitness enthusiasts to purchase and sell products with ease. The use of cutting-edge technologies ensures a reliable and user-friendly experience.
 
-## 🛠️ Mis Contribuciones
+## 🛠️ My contributions
 <!-- Muestra tus contribuciones con un gráfico -->
 !Gráfico de Contribuciones
 
