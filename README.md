@@ -22,7 +22,27 @@ From the vibrant city of Buenos Aires, Argentina, my passion for technology has 
 
 ## 🌟 Proyectos Destacados
 <!-- Asegúrate de actualizar los enlaces con tus repositorios -->
-- [E-Gym](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile) - Descripción corta del proyecto.
+- [E-Gym]([https://frontend-pf-three.vercel.app/) - .
+- ## Project Overview
+GymCommerce is a responsive e-commerce website designed to cater to the fitness industry. The platform offers a seamless shopping experience for gym equipment, supplements, and accessories. It features a robust admin dashboard, secure user authentication, email notifications, and form validations to ensure a smooth operation.
+
+## Technologies Used
+- **Frontend**: Developed with `React` and styled using `Tailwind CSS` for a modern and responsive user interface.
+- **Backend**: Built on `Node.js` with `Express` for efficient server-side logic.
+- **Database**: Utilizes `MongoDB` for a scalable and flexible NoSQL database solution.
+- **Authentication**: Implements secure login and registration processes with JWT (JSON Web Tokens).
+- **Email Service**: Integrated with a mail service for order confirmations and promotional campaigns.
+- **Form Validation**: Ensures data integrity with comprehensive form validations, with `Formik` and `Yup`
+
+## Features
+- **Admin Dashboard**: A comprehensive control panel for managing products, orders, and user accounts.
+- **Responsive Design**: Mobile-first approach ensuring compatibility across various devices and screen sizes.
+- **User Authentication**: Secure sign-up and sign-in processes with password encryption.
+- **Email Notifications**: Automated system for sending transactional emails and newsletters.
+- **Form Validations**: Robust validation checks to prevent erroneous data entry.
+
+## Conclusion
+E-gym stands out as a specialized e-commerce solution for the fitness industry, providing a powerful platform for gym owners and fitness enthusiasts to purchase and sell products with ease. The use of cutting-edge technologies ensures a reliable and user-friendly experience.
 
 ## 🛠️ Mis Contribuciones
 <!-- Muestra tus contribuciones con un gráfico -->
