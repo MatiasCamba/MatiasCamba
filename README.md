@@ -1,4 +1,4 @@
-# ¡Hi, everybody! I´m Matias Camba 🌟
+# ¡Hi, everybody! I´m Matias Camba.
 
 <!-- Introduce una imagen de banner personalizada aquí -->
 !Banner
