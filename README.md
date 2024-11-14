@@ -1,8 +1,5 @@
 # ¡Hi, everybody! I´m Matias Camba.
 
-<!-- Introduce una imagen de banner personalizada aquí -->
-!Banner
-
 ## 👤 About me
 From the vibrant city of Buenos Aires, Argentina, my passion for technology has been a lifelong journey. With a professional background in programming, I've honed my skills to become a Full Stack Developer, thanks to my studies at Soy Henry. My academic path also includes language studies at the University of Buenos Aires and Systems Analysis at Da Vinci School.
 
@@ -11,8 +8,17 @@ From the vibrant city of Buenos Aires, Argentina, my passion for technology has 
 - 🥋 A disciplined Jiu-Jitsu practitioner for 15 years, valuing teamwork and continuous improvement.
 - 📫 Contact me: **[matiezequielcamba@gmail.com]**
 
-## 📊 Estadísticas de GitHub
-!Estadísticas de GitHub
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MatiasCamba&show_icons=true&theme=dark&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MatiasCamba&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasCamba&show_icons=true&rank_icon=github" />
+</picture>
 
 ## 💻 Tech and Tools
 <!-- Personaliza tus insignias aquí: https://shields.io/ -->
@@ -63,9 +69,6 @@ GymCommerce is a responsive e-commerce website designed to cater to the fitness 
 ## Conclusion
 E-gym stands out as a specialized e-commerce solution for the fitness industry, providing a powerful platform for gym owners and fitness enthusiasts to purchase and sell products with ease. The use of cutting-edge technologies ensures a reliable and user-friendly experience.
 
-## 🛠️ My contributions
-<!-- Muestra tus contribuciones con un gráfico -->
-!Gráfico de Contribuciones
 
 ## Professional Aspirations
 I'm eager to join a tech-forward institution where I can further my skills and contribute to collective success through logical reasoning and technical competencies.
