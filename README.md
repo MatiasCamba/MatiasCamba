@@ -8,17 +8,6 @@ From the vibrant city of Buenos Aires, Argentina, my passion for technology has 
 - 🥋 A disciplined Jiu-Jitsu practitioner for 15 years, valuing teamwork and continuous improvement.
 - 📫 Contact me: **[matiezequielcamba@gmail.com]**
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MatiasCamba&show_icons=true&theme=dark&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MatiasCamba&show_icons=true&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiasCamba&show_icons=true&rank_icon=github" />
-</picture>
 
 ## 💻 Tech and Tools
 <!-- Personaliza tus insignias aquí: https://shields.io/ -->
@@ -69,9 +58,20 @@ GymCommerce is a responsive e-commerce website designed to cater to the fitness 
 ## Conclusion
 E-gym stands out as a specialized e-commerce solution for the fitness industry, providing a powerful platform for gym owners and fitness enthusiasts to purchase and sell products with ease. The use of cutting-edge technologies ensures a reliable and user-friendly experience.
 
-
 ## Professional Aspirations
 I'm eager to join a tech-forward institution where I can further my skills and contribute to collective success through logical reasoning and technical competencies.
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MatiasCamba&show_icons=true&theme=dark&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MatiasCamba&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasCamba&show_icons=true&rank_icon=github" />
+</picture>
 
 ## Let's Connect
 If you're intrigued and wish to learn more, let's schedule an interview via email, Discord, or phone. I'm excited to connect and explore professional opportunities together.
